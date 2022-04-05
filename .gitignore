@@ -1,0 +1,9 @@
+gradle.properties
+/bin
+/build
+/.project
+/.classpath
+/.settings
+/.svn
+/.gradle
+/.checkstyle
